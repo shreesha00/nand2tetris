@@ -1,2 +1,2 @@
 # nand2tetris
-The nand2teris course as part of CS2300
+This course is being completed as a requirement for CS2300 course at IITM
