@@ -1,2 +1,2 @@
 # nand2tetris
-This course is being completed as a requirement for CS2300 course at IITM
+As part of the CS2300 - Foundations of Computer Systems Design course at IITM
